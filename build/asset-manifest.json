@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tudu-app/static/css/main.eb4ab021.css",
+    "main.js": "/tudu-app/static/js/main.5a3e416f.js",
+    "index.html": "/tudu-app/index.html",
+    "main.eb4ab021.css.map": "/tudu-app/static/css/main.eb4ab021.css.map",
+    "main.5a3e416f.js.map": "/tudu-app/static/js/main.5a3e416f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb4ab021.css",
+    "static/js/main.5a3e416f.js"
+  ]
+}
